@@ -1,2 +1,5 @@
 # RetailerGambitDataVisulization-R
 Retailers’ Gambit: A deep dive into the gaming retailers’ pricing behaviors
+
+
+Over the last few decades, product consumers have become highly aware of the price setting strategies and voluntary efforts of market retailers to influence consumers’ decision-making patterns. Consequently, price comparison websites like PriceSpy came into existence in 2002 (Om Prisjakt - Kunskap före köp, 2022). The main objective of this website is to provide the readers with sufficient price analytics basis across various products’ ranges at nil cost to enhance their buying efficiency. The objective of this report is to extract the essence of price setting strategies via prices and related variables from the price comparison website, PriceSpy Sweden for the years 2012 until 2017 and discuss the implications of such behaviors with respect to the regulatory authorities and end consumers as well. Moreover, this report will shed light on clustering patterns (if any) among different retailers to highlight any trends or relationships among them.
